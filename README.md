@@ -1,6 +1,6 @@
 # PinTools
 
-A collection of helpful dynamic binary instrumentation tools.
+Dynamic Binary Instrumentation Tools
 
 Download platform:
 ```
